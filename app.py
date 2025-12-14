@@ -13,8 +13,6 @@ import secrets
 import os
 from random import randint
 import random
-import pymysql
-pymysql.install_as_MySQLdb()
 
 local_server = os.environ.get('IS_PRODUCTION') != '1'
 
