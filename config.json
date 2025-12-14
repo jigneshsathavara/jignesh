@@ -2,14 +2,6 @@
     "params":
     {
       "local_server":"True",
-      
-      "host": "sql.freedb.tech",
-      "user": "freedb_portfo",
-      "password": "Q5ZehqwXsHyw?8D",
-      "database": "freedb_profile",
-      "port": 3306,
-      "charset": "utf8mb4",
-
       "local_uri": "mysql+pymysql://freedb_portfo:Q5ZehqwXsHyw?8D@sql.freedb.tech:3306/freedb_profile",
       "prod_uri":"mysql+pymysql://freedb_portfo:Q5ZehqwXsHyw?8D@sql.freedb.tech:3306/freedb_profile",
       "ig_url":"https://www.instagram.com/jignesh_sathavara_5?igsh=M2UxZmJhZW4zcnM3",
